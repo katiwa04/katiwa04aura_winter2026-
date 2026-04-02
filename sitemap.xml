@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://byuidatascience.github.io/course_work_portfolio/Templates/DS250_Template.html</loc>
-    <lastmod>2026-04-02T14:55:32.357Z</lastmod>
-  </url>
-  <url>
     <loc>https://byuidatascience.github.io/course_work_portfolio/Templates/ds250_coding_challenge_template.html</loc>
-    <lastmod>2026-04-02T14:55:32.357Z</lastmod>
+    <lastmod>2026-04-02T15:25:18.399Z</lastmod>
   </url>
   <url>
-    <loc>https://byuidatascience.github.io/course_work_portfolio/250_projects.html</loc>
-    <lastmod>2026-04-02T14:55:32.353Z</lastmod>
-  </url>
-  <url>
-    <loc>https://byuidatascience.github.io/course_work_portfolio/250_Projects/project5.html</loc>
-    <lastmod>2026-04-02T14:55:32.352Z</lastmod>
+    <loc>https://byuidatascience.github.io/course_work_portfolio/Templates/DS250_Template.html</loc>
+    <lastmod>2026-04-02T15:25:18.398Z</lastmod>
   </url>
   <url>
     <loc>https://byuidatascience.github.io/course_work_portfolio/250_Projects/project3.html</loc>
-    <lastmod>2026-04-02T14:55:32.350Z</lastmod>
+    <lastmod>2026-04-02T15:25:18.398Z</lastmod>
   </url>
   <url>
-    <loc>https://byuidatascience.github.io/course_work_portfolio/250_Projects/project4.html</loc>
-    <lastmod>2026-04-02T14:55:32.351Z</lastmod>
+    <loc>https://byuidatascience.github.io/course_work_portfolio/250_Projects/project5.html</loc>
+    <lastmod>2026-04-02T15:25:18.398Z</lastmod>
   </url>
   <url>
-    <loc>https://byuidatascience.github.io/course_work_portfolio/250_Projects/project6.html</loc>
-    <lastmod>2026-04-02T14:55:32.353Z</lastmod>
+    <loc>https://byuidatascience.github.io/course_work_portfolio/250_projects.html</loc>
+    <lastmod>2026-04-02T15:25:18.398Z</lastmod>
   </url>
   <url>
     <loc>https://byuidatascience.github.io/course_work_portfolio/index.html</loc>
-    <lastmod>2026-04-02T14:55:32.359Z</lastmod>
+    <lastmod>2026-04-02T15:25:18.399Z</lastmod>
+  </url>
+  <url>
+    <loc>https://byuidatascience.github.io/course_work_portfolio/250_Projects/project6.html</loc>
+    <lastmod>2026-04-02T15:25:18.398Z</lastmod>
+  </url>
+  <url>
+    <loc>https://byuidatascience.github.io/course_work_portfolio/250_Projects/project4.html</loc>
+    <lastmod>2026-04-02T15:25:18.398Z</lastmod>
   </url>
   <url>
     <loc>https://byuidatascience.github.io/course_work_portfolio/Templates/ds250_project_template_clean.html</loc>
-    <lastmod>2026-04-02T14:55:32.358Z</lastmod>
+    <lastmod>2026-04-02T15:25:18.399Z</lastmod>
   </url>
 </urlset>
